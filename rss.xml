@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Dave Hacker Photography]]></title>
+        <description><![CDATA[Dave Hacker Photography]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 18 Oct 2015 21:26:11 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Dave Hacker Photography</p>]]></description>
+            <link>undefined2522561e-d44c-420f-83e2-9639a6eedc8f/index.html</link>
+            <guid isPermaLink="false">2522561e-d44c-420f-83e2-9639a6eedc8f</guid>
+            <pubDate>Sun, 18 Oct 2015 21:26:05 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

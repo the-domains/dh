@@ -1,6 +1,6 @@
 name: DH
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.30952
 typography_spectrum: 0.64416
 title: Dave Hacker Photography
 cta:
@@ -25,5 +25,5 @@ color:
   brandStrength: 0
   lightness: 0.375
   saturation: 0
-  rhythmicContrast: 1
+  rhythmicContrast: 0
 purpose: []

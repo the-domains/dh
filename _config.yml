@@ -22,7 +22,7 @@ color:
     - '#616161'
     - '#cacaca'
     - '#0e0e0e'
-  brandStrength: 1
+  brandStrength: 0
   lightness: 0
   saturation: 0
   rhythmicContrast: 0

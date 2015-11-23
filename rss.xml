@@ -4,14 +4,28 @@
         <description><![CDATA[Dave Hacker Photography]]></description>
         <link>https://thegrid.ai/dh/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 12 Nov 2015 08:18:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Nov 2015 20:43:47 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dh/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Givergy Mobile]]></title>
-            <description><![CDATA[<article><h1>Givergy Mobile</h1></article>]]></description>
-            <link>http://www.foundation-ball-auction.com/lite-ui/#lots/show/13</link>
-            <guid isPermaLink="false">5ade6c7f-5ec7-4b9f-980e-c3f7a3f40d03</guid>
-            <pubDate>Sat, 07 Nov 2015 22:30:51 GMT</pubDate>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://www.photographersgallery.com/i/full/newyork_marriott1.jpg" alt="" title="">]]></description>
+            <link>https://www.photographersgallery.com/photo.asp?id=2250</link>
+            <guid isPermaLink="false">24d6e723-630c-4d05-967e-6594985b9eec</guid>
+            <pubDate>Wed, 18 Nov 2015 22:15:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://www.photographersgallery.com/i/full/tower_bridge.jpg" alt="" title="">]]></description>
+            <link>https://www.photographersgallery.com/photo.asp?id=2263</link>
+            <guid isPermaLink="false">8c0aa66d-6704-40c1-b0a9-86c000c977e1</guid>
+            <pubDate>Wed, 18 Nov 2015 22:15:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://d21l08rhwa1wjv.cloudfront.net/000/015/089/141680.jpg" alt="" title="">]]></description>
+            <link>http://www.seditionart.com/dave_hacker/elvis_negative_robot</link>
+            <guid isPermaLink="false">142ae203-63a7-4eb5-a2a1-d924f1f30658</guid>
+            <pubDate>Wed, 18 Nov 2015 22:15:37 GMT</pubDate>
         </item>
     </channel>
 </rss>

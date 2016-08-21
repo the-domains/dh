@@ -34,7 +34,7 @@ color:
     - '#616161'
     - '#cacaca'
     - '#0e0e0e'
-  brandStrength: 0
+  brandStrength: 0.5
   lightness: 0
   saturation: 0.375
   rhythmicContrast: 0.5
